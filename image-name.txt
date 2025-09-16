@@ -1,0 +1,1 @@
+vi-nexus.lab.vi.local/alpine-pandas-jdk17:latest
